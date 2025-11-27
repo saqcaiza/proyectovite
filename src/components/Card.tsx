@@ -115,7 +115,7 @@ export default function App() {
 
         .controls select, .controls button { margin-left:10px; padding:6px 8px; }
 
-        .banner { background-image: url('https://img.freepik.com/foto-gratis/surtido-elementos-cine-sobre-fondo-rojo-espacio-copia_23-2148457848.jpg?semt=ais_hybrid&w=740&q=80'); background-size:cover; background-position:center; padding:60px 20px; color:white; text-align:center; text-shadow:0 2px 6px rgba(0,0,0,0.6); }
+        .banner { background-image: url(''); background-size:cover; background-position:center; padding:60px 20px; color:white; text-align:center; text-shadow:0 2px 6px rgba(0,0,0,0.6); }
         .banner h1 { margin:0; font-size:28px; }
 
         .tabs { display:flex; gap:20px; padding:14px 20px; border-bottom:1px solid rgba(0,0,0,0.1); cursor:pointer; }
